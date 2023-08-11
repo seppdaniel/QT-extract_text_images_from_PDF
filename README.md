@@ -1,2 +1,2 @@
-# Quick Tricks - How to extract text and images from a PDF
+# Quick Tricks - [QT-1] - How to Extract Text and Images From a PDF
 
