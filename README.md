@@ -1,2 +1,2 @@
-# Qick Tricks - How to extract text and images from a PDF
+# Quick Tricks - How to extract text and images from a PDF
 
