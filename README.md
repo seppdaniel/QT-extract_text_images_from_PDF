@@ -1,1 +1,2 @@
-# QT-extract_text_images_from_PDF
+# Qick Tricks - How to extract text and images from a PDF
+
